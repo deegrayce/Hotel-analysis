@@ -43,6 +43,6 @@ To reproduce or extend this analysis, follow these steps:
 - `SQL/`: Contains SQL scripts for data analysis.
 - `PowerBI/`: Contains the Power BI file (.pbix) for visualizations.
 - `Data/`: Includes the dataset used for analysis.
-- `Documentation/`: Additional documentation files, if any.
+- `Documentation/`: Additional documentation files.
 
 Happy analyzing!
